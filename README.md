@@ -5,7 +5,7 @@ View project showcase on YouTube:
 
 
 View 5-minute Longplay on YouTube:
-[[youtu.be/txIMOdQXTC8](https://www.youtube.com/watch?v=txIMOdQXTC8)](https://youtu.be/xkj3Pd5oxoQ?si=wIcSLKFV9TRhvfWm)
+[[youtu.be/txIMOdQXTC8](https://www.youtube.com/watch?v=txIMOdQXTC8)]
 
 
 
