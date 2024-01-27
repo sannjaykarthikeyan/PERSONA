@@ -19,10 +19,10 @@ work together to escape an alternate reality and save the day.
 
 **Credits and References**
 
-[Assets Used from Spriters Resource](https://www.spriters-resource.com/)https://www.spriters-resource.com/
+[Assets Used from Spriters Resource] (https://www.spriters-resource.com/)https://www.spriters-resource.com/
 - Assets from Persona 4 Arena Ultimax (Xbox 360), Castlevania (SNES), and other videogames were used as sprites in this project.
 
 
 
-[Ryisnow](https://youtu.be/om59cwR7psI?si=lrf2JFh6r7LKbNgJ)https://youtu.be/om59cwR7psI?si=lrf2JFh6r7LKbNgJ) 
+[Ryisnow](https://youtu.be/om59cwR7psI?si=lrf2JFh6r7LKbNgJ) 
 - Basic elements such as the Game Panel, in-game cutscenes, and other features were adopted from this game.
