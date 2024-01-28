@@ -7,11 +7,6 @@ View project showcase on YouTube:
 View 5-minute Longplay on YouTube:
 [[youtu.be/txIMOdQXTC8](https://www.youtube.com/watch?v=txIMOdQXTC8)]
 
-
-
-Created for my computer science culminating project. 
-
-
 Inspired by the Persona RPG series, PERSONA is a turn-based action adventure game created in Java. 
 On their first day of school, three friends encounter a series of "shadows" in various dungeons and palaces. By utilizing their Personas, allies with special abilities, they
 work together to escape an alternate reality and save the day.
