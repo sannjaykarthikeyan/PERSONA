@@ -24,7 +24,7 @@ Screenshots:
 **Credits and References**
 
 [Assets Used from Spriters Resource] (https://www.spriters-resource.com/)https://www.spriters-resource.com/
-This project used assets from Persona 4 Arena Ultimax (Xbox 360), Castlevania (SNES), and other videogames as sprites.
+This project used assets from Persona 4 Arena Ultimax (Xbox 360), Persona 4 (PlayStation 2), Persona 5 (PlayStation 3), Castlevania (SNES), and other videogames as sprites.
 
 
 
