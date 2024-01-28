@@ -36,4 +36,4 @@ This project used assets from the following videogames (i.e., sound effects, mus
 
 
 [Ryisnow](https://youtu.be/om59cwR7psI?si=lrf2JFh6r7LKbNgJ) 
-- Basic elements such as the Game Panel, in-game cutscenes, and other features were adopted from this game.
+- Basic elements such as the Game Panel, in-game cutscenes, and other features were adopted from this tutorial.
