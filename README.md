@@ -1,7 +1,7 @@
 # PERSONA | Turn-based RPG created in Java
 
 View project showcase on YouTube:
-[[[youtu.be/txIMOdQXTC8](https://youtu.be/xkj3Pd5oxoQ?si=OxKgb5TambtqtXLu)]](https://youtu.be/xkj3Pd5oxoQ?si=EIokwclDDBnHLo48)
+(https://youtu.be/xkj3Pd5oxoQ?si=OxKgb5TambtqtXLu)]
 
 
 View 5-minute Longplay on YouTube:
