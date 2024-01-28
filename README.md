@@ -1,11 +1,11 @@
 # PERSONA | Turn-based RPG created in Java
 
 View project showcase on YouTube:
-[[youtu.be/txIMOdQXTC8](https://youtu.be/xkj3Pd5oxoQ?si=OxKgb5TambtqtXLu)]
+[[[youtu.be/txIMOdQXTC8](https://youtu.be/xkj3Pd5oxoQ?si=OxKgb5TambtqtXLu)]](https://youtu.be/xkj3Pd5oxoQ?si=EIokwclDDBnHLo48)
 
 
 View 5-minute Longplay on YouTube:
-[[youtu.be/txIMOdQXTC8](https://www.youtube.com/watch?v=txIMOdQXTC8)]
+https://youtu.be/5dw3hoVvMc8?si=-57exlxsx4RueWNn
 
 Inspired by the Persona RPG series, PERSONA is a turn-based action adventure game created in Java. 
 On their first day of school, three friends encounter a series of "shadows" in various dungeons and palaces. By utilizing their Personas, allies with special abilities, they
