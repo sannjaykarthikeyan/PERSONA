@@ -19,7 +19,7 @@ Screenshots:
 
 **Credits and References**
 
-[Assets Used from Spriters Resource] (https://www.spriters-resource.com/)https://www.spriters-resource.com/)
+[Assets Used from Spriters Resource] (https://www.spriters-resource.com/)
 This project used assets from the following videogames (i.e., sound effects, music, and character sprites): 
 
 - Persona 4 Arena Ultimax (Xbox 360)
